@@ -1,2 +1,2 @@
-# multilingual-phishing-detector
-AI-powered system that detects phishing emails, messages, and URLs across multiple languages using NLP and machine learning.
+# Multilingual Phishing Detector
+Multilingual Phishing Detector is an AI-based system that identifies phishing content across different languages. Most phishing detectors are trained only on English data, which leaves users of other languages exposed. This project addresses that gap by using NLP techniques and machine learning models to classify messages as phishing or legitimate, regardless of the language they are written in.
